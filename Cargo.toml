@@ -1,0 +1,14 @@
+[package]
+name = "NvidiaManager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+backtrace = "0.3.73"
+eframe = "0.28.1"
+egui = "0.28.1"
+procfs = "0.16.0"
+walkdir = "2.5.0"
+xdg = "2.5.2"
+rfd = "0.14.1"
+regex = "1.10.5"
